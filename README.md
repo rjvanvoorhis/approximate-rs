@@ -119,9 +119,10 @@ and will produce output in the following format
 # References
 
 2015\. Clap. https://github.com/clap-rs
+Shunsuke Kanda. 2018. sucds. https://github.com/kampersanda/sucds 
 
-Marks Patrick. 2021. boomphf. https://github.com/10XGenomics/rust-boomphf
+Patrick Marks. 2021. boomphf. https://github.com/10XGenomics/rust-boomphf
 
 Tolnay David and Tryzelaar Erick. 2017. Serde. https://github.com/serde-rs/serde
 
-Xiao Jeffery. 2018. probabilistic-collections. https://gitlab.com/jeffrey-xiao/probabilistic-collections-rs
+Jeffery Xiao. 2018. probabilistic-collections. https://gitlab.com/jeffrey-xiao/probabilistic-collections-rs
